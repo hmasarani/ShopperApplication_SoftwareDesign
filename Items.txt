@@ -1,0 +1,1 @@
+Apple,'This is an apple',12.99,15,YES,20
